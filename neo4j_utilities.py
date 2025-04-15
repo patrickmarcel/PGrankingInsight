@@ -1,5 +1,4 @@
 from neo4j import GraphDatabase
-import pypref as p
 
 
 class Neo4jConnection:
